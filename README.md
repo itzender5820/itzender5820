@@ -5,12 +5,12 @@ OS: .......................... Android 16, Linux, Windows
 Uptime: ...................... 17 years
 Host: ........................ Self-Taught Systems Architect
 Kernel: ...................... Software & Systems Engineering
-IDE: ......................... Teminal , 127.0.0.1:Port
+IDE: ......................... Teminal , 127.0.0.1:8080
 
 Languages.Programming: ....... C++, D, python, C
 Languages.Graphics: .......... GLSL, SPIR-V
 Languages.Web: ............... HTML, CSS, JSON, JavaScript
-Languages.Tools: ............. CMake, Clang, Git, Node.js, Yarn
+Languages.Tools: ............. CMake, Clang, Git, Node.js, Yarn, Gcc
 
 Focus ---------------------------------------------------------------
 
