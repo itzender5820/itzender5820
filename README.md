@@ -1,11 +1,11 @@
 ```text
 itx.ender@localhost -------------------------------------------------
 
-OS: .......................... Android 16, Linux, Windows
+OS: .......................... Android 16, Linux
 Uptime: ...................... 17 years
 Host: ........................ Self-Taught Systems Architect
 Kernel: ...................... Software & Systems Engineering
-IDE: ......................... Teminal , 127.0.0.1:8080
+IDE: ......................... Teminal , 127.0.0.1:PORT
 
 Languages.Programming: ....... C++, D, python, C
 Languages.Graphics: .......... GLSL, SPIR-V
@@ -39,14 +39,7 @@ Learning:
 Contact -------------------------------------------------------------
 
 GitHub: ......................... github.com/itzender5820
-Discord: ........................ ender5820_
+Discord: ........................ itx.ender
 Email: .......................... itz.ender5820@gmail.com
-
-GitHub Stats --------------------------------------------------------
-
-Repos: ............ 8
-Stars: ............ 14
-Followers: ........ 3
-Languages: ........ C++ | C | D | JS | TS | PY
 
 ```
