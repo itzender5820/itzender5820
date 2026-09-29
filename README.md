@@ -15,11 +15,7 @@ Languages.Tools: ............. CMake, Clang, Git, Node.js, Yarn, Gcc
 Focus ---------------------------------------------------------------
 
 Projects:
-  • Crawl networking tool             C++
-  • kinetic Build system              C++
-  • CLI Music Player                  C++
-  • Custom terrain generator          C++
-  • Discord Bots                      C++/JS/PY
+  • mousik Music player            C++
 
 Interests:
   • System Architecture
